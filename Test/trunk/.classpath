@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.6.0_05"/>
+	<classpathentry kind="lib" path="D:/Verschiedenes/Downloads/org.polarion.eclipse.team.svn.connector.javahl15.win32_2.0.0.v20080404.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
