@@ -13,4 +13,9 @@ public class LevelOrderIterator<K extends Comparable<K>,D>
 		levelOrder (links, links.left, links.right);
 		levelOrder (rechts, rechts.left, rechts.right);
 	}
+	
+	public void test ()
+	{
+		
+	}
 }
