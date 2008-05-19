@@ -1,11 +1,11 @@
 import java.util.*; 
-class Queue <K extends Comparable<K>,D>
+class Queue <K extends Comparable<K>, D>
 {
-	List liste = new List ();
+	ArrayList<K> liste = new ArrayList<K> ();
 	
 	Queue ()
 	{
-		liste = new List ();
+		liste = new ArrayList<K> ();
 	}
 	
 	public boolean isEmpty ()
@@ -15,7 +15,7 @@ class Queue <K extends Comparable<K>,D>
 	
 	public void enqueue (Node<K,D> node)
 	{
-			
+		//liste.add(node);
 	}
 		
 	public Node<K,D> dequeue ()
